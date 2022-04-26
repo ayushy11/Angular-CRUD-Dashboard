@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Phone",
+      "category": "Electronics",
+      "date": "2022-04-25T18:30:00.000Z",
+      "quality": "Brand New",
+      "price": 120000,
+      "comment": "new release",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "date": "2022-04-26T18:30:00.000Z",
+      "quality": "Brand New",
+      "price": 100,
+      "comment": "Fruit",
+      "id": 2
+    },
+    {
+      "productName": "Carrots",
+      "category": "Vegetables",
+      "date": "2022-04-27T18:30:00.000Z",
+      "quality": "Brand New",
+      "price": 50,
+      "comment": "carrot",
+      "id": 3
+    },
+    {
+      "productName": "iWatch",
+      "category": "Electronics",
+      "date": "2022-04-28T18:30:00.000Z",
+      "quality": "Refurbished",
+      "price": 5000,
+      "comment": "refurbished product",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
